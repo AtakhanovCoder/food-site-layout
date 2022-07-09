@@ -1,0 +1,203 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.navbar ul{
+	list-style: none;
+	background: white;
+	padding: 0;
+	margin: 10px 10px 10px 10px;
+  	display: flex;
+  	justify-content: space-around;
+}
+.navbar li{
+	display: inline-block;
+}
+.navbar a{
+	text-decoration: none;
+	color: black;
+	width: 100px;
+	display: block;
+	padding: 20px 20px;
+	font-size: 15px;
+	text-transform: uppercase;
+	text-align: center;
+	background-color: #ff7429; /* Green */
+ 	border: none;
+  	color: white;
+  	transition-duration: 0.4s;
+  	cursor: pointer;
+}
+.navbar a:hover{
+	transition: 0.5s;
+	background: #ff7429;
+	background-color: white; 
+  	color: black; 
+  	border: 1px solid #ff7429;
+}
+#aboutUs{
+	width: 500px;
+	margin: 20px 75px 75px 10px;
+}
+div.main2{
+	display: flex;
+	justify-content: space-around;
+}
+#aboutH1{
+	margin: 50px;
+}
+#imgabout{
+	width: 350px;
+	height: 400px;
+}
+.foods1{
+	display: flex;
+	justify-content: space-around;
+}
+#lavash{
+	width: 200px;
+	height: 150px;
+}
+#kartofelFri{
+	width: 200px;
+	height: 150px;
+}
+#hotDog{
+	width: 200px;
+	height: 150px;
+}
+#gamburger{
+	width: 200px;
+	height: 150px;
+}
+button{
+  background-color: #ff7429; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+button:hover {
+  background-color: white; 
+  color: black; 
+  border: 1px solid #ff7429;
+}
+.foods2{
+	display: flex;
+	justify-content: space-around;
+}
+#somsa{
+	width: 200px;
+	height: 150px;
+}
+#manti{
+	width: 200px;
+	height: 150px;
+}
+#shashlik{
+	width: 200px;
+	height: 150px;
+}
+#norin{
+	width: 200px;
+	height: 150px;
+}
+
+.foods3{
+	display: flex;
+	justify-content: space-around;
+}
+#osh{
+	width: 200px;
+	height: 150px;
+}
+#mastava{
+	width: 200px;
+	height: 150px;
+}
+#shorva{
+	width: 200px;
+	height: 150px;
+}
+#lagmon{
+	width: 200px;
+	height: 150px;
+}
+div.column1{
+	display: flex;
+	justify-content: space-around;
+}
+div.column2{
+	display: flex;
+	justify-content: space-around;
+}
+div.column3{
+	display: flex;
+	justify-content: space-around;
+}
+div.column4{
+	display: flex;
+	justify-content: center;
+}
+#inp{
+	font-size: 50px;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+#order{
+	font-size: 20px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+#yourShop1{
+	display: inline-block;
+	padding: 20px;
+}
+#yourShop2{
+	display: inline-block;
+	padding: 20px;
+}
+#yourShop3{
+	display: inline-block;
+	padding: 20px;
+}
+#yourShop4{
+	display: inline-block;
+	padding: 20px;
+}
+#yourShop5{
+	display: inline-block;
+	padding: 20px;
+}
+#yourShop6{
+	display: inline-block;
+	padding: 20px;
+}
+#yourShop7{
+	display: inline-block;
+	padding: 20px;
+}
+#yourShop8{
+	display: inline-block;
+	padding: 20px;
+}
+#yourShop9{
+	display: inline-block;
+	padding: 20px;
+}
+#yourShop10{
+	display: inline-block;
+	padding: 20px;
+}
+#yourShop11{
+	display: inline-block;
+	padding: 20px;
+}
+#yourShop12{
+	display: inline-block;
+	padding: 20px;
+}
